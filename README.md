@@ -123,4 +123,4 @@ Bu proje açık kaynaklıdır ve herkes tarafından özgürce kullanılabilir, d
 5. Pull Request oluşturun
 
 
-https://ibrahimglmz.github.io/my_web/
+https://ibrahimglmz.github.io/portfolio/
